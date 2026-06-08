@@ -1,0 +1,50 @@
+name: Fetch Monkeytype daily leaderboards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 2 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fetch-monkeytype-daily
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 22
+
+      - name: Fetch daily leaderboards
+        run: node scripts/fetch-daily.mjs
+
+      - name: Commit data files
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "55391576+brentspine@users.noreply.github.com"
+
+          if [ -d data ]; then
+            git add data/
+          fi
+
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+            exit 0
+          fi
+
+          git commit -m "Add Monkeytype leaderboard data for $(date -u -d 'yesterday' +'%Y-%m-%d')"
+          git pull --rebase
+          git push
