@@ -1,0 +1,54 @@
+{
+  "generatedAt": "2026-07-14T05:10:23.717Z",
+  "leaderboardDate": "2026-07-13",
+  "sourceUrl": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+  "sourceUrlExample": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=english&daysBefore=1&mode2=%2215%22",
+  "daysBefore": 1,
+  "expectedNumberOfFiles": 14,
+  "expectedNumberOfRequests": 70,
+  "configuration": {
+    "pageSize": 200,
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ],
+    "mode": "time",
+    "mode2Values": [
+      "15",
+      "60"
+    ],
+    "languages": [
+      "english",
+      "spanish",
+      "german",
+      "portuguese",
+      "indonesian",
+      "italian",
+      "french"
+    ]
+  },
+  "successes": {
+    "requests": 70,
+    "files": 14,
+    "filesWritten": [
+      "data/2026-07-13/english-15.json",
+      "data/2026-07-13/english-60.json",
+      "data/2026-07-13/spanish-15.json",
+      "data/2026-07-13/spanish-60.json",
+      "data/2026-07-13/german-15.json",
+      "data/2026-07-13/german-60.json",
+      "data/2026-07-13/portuguese-15.json",
+      "data/2026-07-13/portuguese-60.json",
+      "data/2026-07-13/indonesian-15.json",
+      "data/2026-07-13/indonesian-60.json",
+      "data/2026-07-13/italian-15.json",
+      "data/2026-07-13/italian-60.json",
+      "data/2026-07-13/french-15.json",
+      "data/2026-07-13/french-60.json"
+    ]
+  },
+  "failures": []
+}
