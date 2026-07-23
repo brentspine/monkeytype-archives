@@ -1,0 +1,666 @@
+{
+  "generatedAt": "2026-07-23T05:35:10.388Z",
+  "leaderboardDate": "2026-07-22",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "german",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 141.78,
+        "acc": 96.72,
+        "timestamp": 1784737067000,
+        "raw": 152.57,
+        "consistency": 86.76,
+        "uid": "D9TlSjm35FMz0h9dE1Dqcqgr6Kh1",
+        "name": "bob_mt",
+        "rank": 1
+      },
+      {
+        "wpm": 131.2,
+        "acc": 98.1,
+        "timestamp": 1784758365000,
+        "raw": 136.4,
+        "consistency": 78.38,
+        "uid": "4ywnnn3HAxUkX0VBti6OPWfOf5T2",
+        "name": "Sungo7",
+        "rank": 2
+      },
+      {
+        "wpm": 129.38,
+        "acc": 97.23,
+        "timestamp": 1784730518000,
+        "raw": 136.78,
+        "consistency": 75.63,
+        "uid": "zrlDpcWlQzaIFRp4A7RU6GF5rC03",
+        "name": "Gonsch",
+        "discordId": "477460023522492426",
+        "discordAvatar": "c835304314d6d6bb5b413a8b25d28d98",
+        "rank": 3
+      },
+      {
+        "wpm": 120.38,
+        "acc": 99.83,
+        "timestamp": 1784719514000,
+        "raw": 120.38,
+        "consistency": 86.11,
+        "uid": "51ykHRMvHQUexdJvC3p027dmekZ2",
+        "name": "OMGYes",
+        "discordId": "153860159549079552",
+        "discordAvatar": "43bea10127817f51c2a79e2aace8cf12",
+        "rank": 4
+      },
+      {
+        "wpm": 117.6,
+        "acc": 98.86,
+        "timestamp": 1784730810000,
+        "raw": 122.6,
+        "consistency": 85.15,
+        "uid": "ehHJQoslCqgkORq0DxgryPAggpz1",
+        "name": "Blacksoul",
+        "rank": 5
+      },
+      {
+        "wpm": 113.38,
+        "acc": 97.63,
+        "timestamp": 1784723995000,
+        "raw": 113.38,
+        "consistency": 77.24,
+        "uid": "Gi319BVnVQSRNBiOpry7XgJAb013",
+        "name": "vezqobinium",
+        "rank": 6
+      },
+      {
+        "wpm": 108.18,
+        "acc": 97.67,
+        "timestamp": 1784706270000,
+        "raw": 108.18,
+        "consistency": 72.18,
+        "uid": "YnOspM84uYN395ZlUlM0CYrF9F23",
+        "name": "TomDerTipper",
+        "rank": 7
+      },
+      {
+        "wpm": 106.78,
+        "acc": 96.26,
+        "timestamp": 1784749519000,
+        "raw": 108.38,
+        "consistency": 73.24,
+        "uid": "bJylMsW8UNQJjzyXHJYeA4IYVEz1",
+        "name": "Gluuutz",
+        "rank": 8
+      },
+      {
+        "wpm": 106.18,
+        "acc": 96.59,
+        "timestamp": 1784736631000,
+        "raw": 108.18,
+        "consistency": 74.38,
+        "uid": "ZS50cJeOvIMYIvgeKvFRAuhHu1Y2",
+        "name": "MonsterOnMT",
+        "rank": 9
+      },
+      {
+        "wpm": 103.18,
+        "acc": 97.03,
+        "timestamp": 1784724632000,
+        "raw": 103.18,
+        "consistency": 74.41,
+        "uid": "FsG57jzqCya3LYOgDgCfy5KpJP62",
+        "name": "Cosinator",
+        "discordId": "369900363152883715",
+        "discordAvatar": "15344a194e64d735c79c022ea20dbf6a",
+        "rank": 10
+      },
+      {
+        "wpm": 98.38,
+        "acc": 96.8,
+        "timestamp": 1784716328000,
+        "raw": 106.18,
+        "consistency": 78.95,
+        "uid": "CbuL80qvJodEAu4AllafuJnk3vp1",
+        "name": "Alinaushamburg",
+        "rank": 11
+      },
+      {
+        "wpm": 95.38,
+        "acc": 98.01,
+        "timestamp": 1784745209000,
+        "raw": 98.98,
+        "consistency": 77.22,
+        "uid": "QOBJF4KUXkWFWfR4Yycili7FJ4v2",
+        "name": "menschan",
+        "rank": 12
+      },
+      {
+        "wpm": 94,
+        "acc": 97.31,
+        "timestamp": 1784727272000,
+        "raw": 94,
+        "consistency": 77.96,
+        "uid": "KEakucLYQwS4ugNceaI5codhUve2",
+        "name": "CraftCoder",
+        "rank": 13
+      },
+      {
+        "wpm": 93,
+        "acc": 98.73,
+        "timestamp": 1784729374000,
+        "raw": 93,
+        "consistency": 78.83,
+        "uid": "l6AIUVXomuXxwWs6cJIW6P4Ilsn2",
+        "name": "xevien96",
+        "rank": 14
+      },
+      {
+        "wpm": 92.4,
+        "acc": 98.73,
+        "timestamp": 1784760959000,
+        "raw": 92.4,
+        "consistency": 77.68,
+        "uid": "mixhFvrqHccMonf6dxQ2mUeNept1",
+        "name": "Baron-Blood",
+        "discordId": "388054781136207873",
+        "discordAvatar": "6bf71a014e35d1268701ff5601144e93",
+        "rank": 15
+      },
+      {
+        "wpm": 90.98,
+        "acc": 98.07,
+        "timestamp": 1784749324000,
+        "raw": 90.98,
+        "consistency": 76.65,
+        "uid": "GgPp1E49TXdwBQXNMirs4hMd3bp2",
+        "name": "bleeeeb",
+        "rank": 16
+      },
+      {
+        "wpm": 90.58,
+        "acc": 98.7,
+        "timestamp": 1784711920000,
+        "raw": 90.58,
+        "consistency": 75.99,
+        "uid": "ECnoRQdAncNNuZioAoLHucJr1TN2",
+        "name": "putzer",
+        "rank": 17
+      },
+      {
+        "wpm": 90.2,
+        "acc": 96.78,
+        "timestamp": 1784735520000,
+        "raw": 90.2,
+        "consistency": 71.38,
+        "uid": "4yVlikVRcnaQbRtwpJmvtlidb8M2",
+        "name": "Be_Kay",
+        "discordId": "1112257458757447740",
+        "discordAvatar": "f04a8907e014547a895cd568e613bfc9",
+        "rank": 18
+      },
+      {
+        "wpm": 90,
+        "acc": 95.7,
+        "timestamp": 1784704465000,
+        "raw": 96,
+        "consistency": 75.78,
+        "uid": "quiPHPZAEbWWta1nX9BtKj3appI2",
+        "name": "Synon",
+        "rank": 19
+      },
+      {
+        "wpm": 89.77,
+        "acc": 94.42,
+        "timestamp": 1784748182000,
+        "raw": 91.37,
+        "consistency": 73.14,
+        "uid": "5rYyeuqN8edboRwowCLK9dCMLYJ3",
+        "name": "DirtyFox",
+        "rank": 20
+      },
+      {
+        "wpm": 88,
+        "acc": 98.24,
+        "timestamp": 1784734111000,
+        "raw": 90.4,
+        "consistency": 73.93,
+        "uid": "mmp285YeUcRi3nFJSZ6giq0ttho2",
+        "name": "Gammelization",
+        "rank": 21
+      },
+      {
+        "wpm": 87.37,
+        "acc": 93.78,
+        "timestamp": 1784726922000,
+        "raw": 89.57,
+        "consistency": 65.54,
+        "uid": "pJTR9X8Q5nOkZXipJfshvyn23jp1",
+        "name": "AntonTepe",
+        "rank": 22
+      },
+      {
+        "wpm": 87,
+        "acc": 92.31,
+        "timestamp": 1784746827000,
+        "raw": 99.6,
+        "consistency": 76.89,
+        "uid": "JiHtNb1ZuKT1fLdVsY0KHBQ65jM2",
+        "name": "Kyberios",
+        "rank": 23
+      },
+      {
+        "wpm": 84.6,
+        "acc": 98.17,
+        "timestamp": 1784726157000,
+        "raw": 85.6,
+        "consistency": 77.55,
+        "uid": "9vwQHNX94CQgaTBPafoKGyK4c4Z2",
+        "name": "TimSchlimm",
+        "rank": 24
+      },
+      {
+        "wpm": 84.36,
+        "acc": 95.71,
+        "timestamp": 1784689749000,
+        "raw": 84.36,
+        "consistency": 69.01,
+        "uid": "3SnKrL2O98hXuklNSSuawj7r4fm2",
+        "name": "honza2535",
+        "discordId": "478132938677026818",
+        "discordAvatar": "9d588b78aeb8c249f0cc4f964ff1ab02",
+        "rank": 25
+      },
+      {
+        "wpm": 83.37,
+        "acc": 96.16,
+        "timestamp": 1784708836000,
+        "raw": 85.57,
+        "consistency": 73.24,
+        "uid": "gbudILdT99ZcSIZne3GDA8usDnm1",
+        "name": "Chokemeister",
+        "rank": 26
+      },
+      {
+        "wpm": 80.59,
+        "acc": 99.26,
+        "timestamp": 1784720778000,
+        "raw": 80.59,
+        "consistency": 73.59,
+        "uid": "013VgDi2TyVa1LT2cYqk9uITY6a2",
+        "name": "wYvern1349",
+        "discordId": "168518261179154443",
+        "discordAvatar": "7cc29f23231ce0fc5d8b40ab4c68cfb6",
+        "rank": 27
+      },
+      {
+        "wpm": 80.39,
+        "acc": 97.58,
+        "timestamp": 1784733179000,
+        "raw": 80.39,
+        "consistency": 74.8,
+        "uid": "JuIEzEwV5Sehn8f49Pp657SNwo43",
+        "name": "Doryx",
+        "rank": 28
+      },
+      {
+        "wpm": 79.39,
+        "acc": 99.75,
+        "timestamp": 1784758844000,
+        "raw": 79.79,
+        "consistency": 83.34,
+        "uid": "x1xeRNkXDQMAoXOFgcbEXiWiYv53",
+        "name": "kd0312",
+        "rank": 29
+      },
+      {
+        "wpm": 77.4,
+        "acc": 94,
+        "timestamp": 1784708182000,
+        "raw": 86.2,
+        "consistency": 69.26,
+        "uid": "0Qu0NSA5OaPB4BZ3Ytsmpf5tBJ22",
+        "name": "RealNickname",
+        "discordId": "267762360737988618",
+        "discordAvatar": "a_d2f1f501bdbf9eaf3d8a189d03863ba4",
+        "rank": 30
+      },
+      {
+        "wpm": 75.37,
+        "acc": 93.05,
+        "timestamp": 1784746867000,
+        "raw": 79.57,
+        "consistency": 72.77,
+        "uid": "SfbR30LYZdaGbtMw1pmDZU2VuIk2",
+        "name": "JesperBe",
+        "rank": 31
+      },
+      {
+        "wpm": 73.59,
+        "acc": 97.61,
+        "timestamp": 1784705469000,
+        "raw": 73.59,
+        "consistency": 63.48,
+        "uid": "K3P9SXsHGPfTVYiP5c6oDkQJkaI3",
+        "name": "j4yb33",
+        "rank": 32
+      },
+      {
+        "wpm": 72.99,
+        "acc": 99.2,
+        "timestamp": 1784711587000,
+        "raw": 75.19,
+        "consistency": 71.18,
+        "uid": "cD8vL7LubNhg2NADq0L5KW0NfNE3",
+        "name": "Flowd85",
+        "rank": 33
+      },
+      {
+        "wpm": 71.8,
+        "acc": 91.72,
+        "timestamp": 1784705616000,
+        "raw": 91.8,
+        "consistency": 75.68,
+        "uid": "efWjgDb8pZZibi2dk8t4w9VQjWE2",
+        "name": "lawitzer",
+        "rank": 34
+      },
+      {
+        "wpm": 71.19,
+        "acc": 96.01,
+        "timestamp": 1784753562000,
+        "raw": 71.19,
+        "consistency": 73.32,
+        "uid": "cl5B7RD8UyZ8UT5Ngl3RjDh25gd2",
+        "name": "stra_",
+        "discordId": "848452808713044018",
+        "discordAvatar": "cd87780314461c87c9fffc344be58d9e",
+        "rank": 35
+      },
+      {
+        "wpm": 71,
+        "acc": 98.34,
+        "timestamp": 1784753069000,
+        "raw": 71,
+        "consistency": 75.42,
+        "uid": "8lkrxrbCLOVH2831gH8Z5nG0P4m2",
+        "name": "maav",
+        "rank": 36
+      },
+      {
+        "wpm": 69.59,
+        "acc": 95.91,
+        "timestamp": 1784728528000,
+        "raw": 69.59,
+        "consistency": 70.74,
+        "uid": "PcSofM5T8pTknWbqsKshWwHdI4h2",
+        "name": "Gobo1",
+        "rank": 37
+      },
+      {
+        "wpm": 69.38,
+        "acc": 97.25,
+        "timestamp": 1784751173000,
+        "raw": 71.58,
+        "consistency": 77.11,
+        "uid": "VSXHrbXQanPJRUtGd5zOVIc2Cwg2",
+        "name": "Crexa",
+        "rank": 38
+      },
+      {
+        "wpm": 68.57,
+        "acc": 96.64,
+        "timestamp": 1784736936000,
+        "raw": 68.57,
+        "consistency": 72.67,
+        "uid": "iBZjXY0ukCROlW1qlqVKhySQacA2",
+        "name": "yirentao",
+        "rank": 39
+      },
+      {
+        "wpm": 68.2,
+        "acc": 97.17,
+        "timestamp": 1784706081000,
+        "raw": 68.2,
+        "consistency": 67.74,
+        "uid": "Byrzh8uT2HhiMv2kmZthQUYJP0E3",
+        "name": "henningmicheel",
+        "rank": 40
+      },
+      {
+        "wpm": 67.8,
+        "acc": 90.86,
+        "timestamp": 1784708880000,
+        "raw": 67.8,
+        "consistency": 58.11,
+        "uid": "WEN9YuxwETdaW8lkGCqpzXXMmeF2",
+        "name": "Bogdanceban",
+        "rank": 41
+      },
+      {
+        "wpm": 66.79,
+        "acc": 97.14,
+        "timestamp": 1784702244000,
+        "raw": 67.99,
+        "consistency": 72.51,
+        "uid": "JnvgB3p1pWVFp8ZjuQ0U0zk61K33",
+        "name": "Hulupus",
+        "rank": 42
+      },
+      {
+        "wpm": 66.59,
+        "acc": 96.01,
+        "timestamp": 1784701689000,
+        "raw": 66.59,
+        "consistency": 63.89,
+        "uid": "Jdi21G6LHeRbsqvuM9x9VWXrEri1",
+        "name": "Malekpe",
+        "rank": 43
+      },
+      {
+        "wpm": 66.18,
+        "acc": 97.42,
+        "timestamp": 1784703482000,
+        "raw": 67.18,
+        "consistency": 76.2,
+        "uid": "zuFRiY8e4rhUwZQBTiCWwgQnOgz1",
+        "name": "LindeIIe",
+        "rank": 44
+      },
+      {
+        "wpm": 65.79,
+        "acc": 95.68,
+        "timestamp": 1784718975000,
+        "raw": 65.79,
+        "consistency": 58.38,
+        "uid": "uXuVjCU6btOfImyy7btlHToEuqh1",
+        "name": "gartenpaul",
+        "discordId": "643876780863913991",
+        "discordAvatar": "2e54c73250b8fc9ed706a3249e372e4f",
+        "rank": 45
+      },
+      {
+        "wpm": 65.79,
+        "acc": 94.81,
+        "timestamp": 1784749210000,
+        "raw": 65.79,
+        "consistency": 52.78,
+        "uid": "iSUzSW9jz9TFCgsTc2bWmDGkOLs2",
+        "name": "xcsg",
+        "rank": 46
+      },
+      {
+        "wpm": 64.38,
+        "acc": 97.33,
+        "timestamp": 1784709570000,
+        "raw": 65.38,
+        "consistency": 68.31,
+        "uid": "gTRDK3m3waUvaBLItHosn48pMPz2",
+        "name": "whispery",
+        "rank": 47
+      },
+      {
+        "wpm": 63.39,
+        "acc": 90.84,
+        "timestamp": 1784710600000,
+        "raw": 72.59,
+        "consistency": 67.19,
+        "uid": "D4dclrmDmxa1TKKBB1nzjlOlo0E2",
+        "name": "KiwiKDo",
+        "rank": 48
+      },
+      {
+        "wpm": 63.2,
+        "acc": 93,
+        "timestamp": 1784714025000,
+        "raw": 63.2,
+        "consistency": 71.42,
+        "uid": "iIQVV7H7AdYJLhGwRw7rk2mMvol2",
+        "name": "jskner",
+        "rank": 49
+      },
+      {
+        "wpm": 59.59,
+        "acc": 95.78,
+        "timestamp": 1784706355000,
+        "raw": 65.19,
+        "consistency": 68.28,
+        "uid": "haIfeaZH3oRjqgU0AYUCC6EyXOE3",
+        "name": "asdlfkjasdfkjl",
+        "rank": 50
+      },
+      {
+        "wpm": 59.2,
+        "acc": 92.02,
+        "timestamp": 1784709802000,
+        "raw": 59.2,
+        "consistency": 69.32,
+        "uid": "PjqAvRGbX7O976TeAp7g1tgrLII3",
+        "name": "k33per13013",
+        "rank": 51
+      },
+      {
+        "wpm": 52.79,
+        "acc": 86.53,
+        "timestamp": 1784733750000,
+        "raw": 76.59,
+        "consistency": 65.4,
+        "uid": "85bydZMeIrZ2AjqICplQerPALJq2",
+        "name": "peppermint_",
+        "discordId": "1528447600641048685",
+        "discordAvatar": "87df3f2abb51656d622749beb892a47b",
+        "rank": 52
+      },
+      {
+        "wpm": 51,
+        "acc": 94.38,
+        "timestamp": 1784742361000,
+        "raw": 67.6,
+        "consistency": 55.85,
+        "uid": "0gGWqS4Hx2h9RbAg8uRH7MsmIgl2",
+        "name": "qneoruu.rar",
+        "discordId": "786289989985763378",
+        "discordAvatar": "b520c773ee72d2644703f2923b8eb4df",
+        "rank": 53
+      },
+      {
+        "wpm": 46.59,
+        "acc": 97.55,
+        "timestamp": 1784725279000,
+        "raw": 47.99,
+        "consistency": 56.39,
+        "uid": "eInsM6Otzae9FSJbNs9epO2bgEp1",
+        "name": "SinaYazdanpanah",
+        "rank": 54
+      },
+      {
+        "wpm": 42.59,
+        "acc": 84.27,
+        "timestamp": 1784718919000,
+        "raw": 51.98,
+        "consistency": 56.98,
+        "uid": "jq8ro2qm3MY0LbTGkC2VhziZLBw1",
+        "name": "slow_rocket",
+        "rank": 55
+      },
+      {
+        "wpm": 35.39,
+        "acc": 92.27,
+        "timestamp": 1784725196000,
+        "raw": 35.39,
+        "consistency": 43.13,
+        "uid": "uh9KYWS8lubaZojtj5TLRtvBKAy2",
+        "name": "Captain7f",
+        "rank": 56
+      },
+      {
+        "wpm": 30.99,
+        "acc": 94.51,
+        "timestamp": 1784700940000,
+        "raw": 30.99,
+        "consistency": 55.31,
+        "uid": "B9aTmIf8uDOo6V0jzjkD9rKqYG23",
+        "name": "hilfeMeinLeben",
+        "rank": 57
+      }
+    ],
+    "combinedEntryCount": 57
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=german&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 57,
+      "reportedMinWpm": 30.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 57
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=german&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 57,
+      "reportedMinWpm": 30.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=german&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 57,
+      "reportedMinWpm": 30.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=german&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 57,
+      "reportedMinWpm": 30.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=german&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 57,
+      "reportedMinWpm": 30.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
