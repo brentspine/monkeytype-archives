@@ -1,0 +1,219 @@
+{
+  "generatedAt": "2026-08-11T03:56:01.363Z",
+  "leaderboardDate": "2026-08-10",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "italian",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 213,
+        "acc": 97.95,
+        "timestamp": 1786384460000,
+        "raw": 223.2,
+        "consistency": 87.53,
+        "uid": "lVeFq8eb3wbbLAxRUH6l9Khg3O82",
+        "name": "andr",
+        "discordId": "318794949510430720",
+        "discordAvatar": "eff36284364bb29f3b9237b33c7b92fa",
+        "rank": 1
+      },
+      {
+        "wpm": 141.4,
+        "acc": 97.59,
+        "timestamp": 1786359209000,
+        "raw": 146,
+        "consistency": 83.3,
+        "uid": "9oujKzWYe5h5vcKfg5BKDH7YneG2",
+        "name": "Lorio",
+        "rank": 2
+      },
+      {
+        "wpm": 128.76,
+        "acc": 99.39,
+        "timestamp": 1786359162000,
+        "raw": 128.76,
+        "consistency": 84.54,
+        "uid": "Uv3wQWVFYfWQuWJHditWifs5v0j1",
+        "name": "frarco",
+        "discordId": "1017738569550409728",
+        "rank": 3
+      },
+      {
+        "wpm": 106.38,
+        "acc": 96.74,
+        "timestamp": 1786379974000,
+        "raw": 106.38,
+        "consistency": 76.45,
+        "uid": "TOYtWfOisXSYITrKMqVK5dOXz3F2",
+        "name": "lilscipio",
+        "rank": 4
+      },
+      {
+        "wpm": 98.78,
+        "acc": 95.98,
+        "timestamp": 1786392484000,
+        "raw": 101.38,
+        "consistency": 78.22,
+        "uid": "PQtiXzJIvOaIAGfUBHMsq5hwjqF3",
+        "name": "ciaopersona",
+        "rank": 5
+      },
+      {
+        "wpm": 94.98,
+        "acc": 98.37,
+        "timestamp": 1786362589000,
+        "raw": 94.98,
+        "consistency": 79.74,
+        "uid": "dSW8DFO5rfNUiJpNwkz9eGntXE73",
+        "name": "error3o3",
+        "rank": 6
+      },
+      {
+        "wpm": 93.98,
+        "acc": 91.55,
+        "timestamp": 1786366031000,
+        "raw": 104.18,
+        "consistency": 68.67,
+        "uid": "mzZwd1IWU0Yeo5k97KOKyJ72q0I2",
+        "name": "AstraIx",
+        "rank": 7
+      },
+      {
+        "wpm": 91.57,
+        "acc": 97.04,
+        "timestamp": 1786347260000,
+        "raw": 91.57,
+        "consistency": 69.8,
+        "uid": "x6UqVGOEE1MnSfjLSiuaWsqInRr2",
+        "name": "rox-ch",
+        "rank": 8
+      },
+      {
+        "wpm": 81.4,
+        "acc": 95.66,
+        "timestamp": 1786366547000,
+        "raw": 83.4,
+        "consistency": 75.33,
+        "uid": "BOEopy9ApJYC90XjiVShMdQmCTh2",
+        "name": "Bughi",
+        "rank": 9
+      },
+      {
+        "wpm": 78.59,
+        "acc": 90.51,
+        "timestamp": 1786379798000,
+        "raw": 80.99,
+        "consistency": 64.76,
+        "uid": "oQMjLVYAeocAgwGF7xgyvjL1rqt2",
+        "name": "Antonio_Bisconti",
+        "discordId": "1133463918568812755",
+        "discordAvatar": "9643bbd2eade5485fa31a041cb5d5b97",
+        "rank": 10
+      },
+      {
+        "wpm": 74.19,
+        "acc": 87.45,
+        "timestamp": 1786389801000,
+        "raw": 87.99,
+        "consistency": 67.64,
+        "uid": "wugyORGjQXf7Z2qLgvHf40RvNGD3",
+        "name": "andrea73",
+        "rank": 11
+      },
+      {
+        "wpm": 68.39,
+        "acc": 92.59,
+        "timestamp": 1786360041000,
+        "raw": 69.59,
+        "consistency": 71.67,
+        "uid": "f6aDGkIr5WbyrF1A23N97neXe4z1",
+        "name": "hksun",
+        "discordId": "759766847855001650",
+        "rank": 12
+      },
+      {
+        "wpm": 56.4,
+        "acc": 98.61,
+        "timestamp": 1786355055000,
+        "raw": 56.4,
+        "consistency": 69.86,
+        "uid": "RjDbXFBDwtRUk9eIjZzeBWwldyc2",
+        "name": "iper_Kill3rZ",
+        "discordId": "1007926529302466643",
+        "rank": 13
+      },
+      {
+        "wpm": 42.2,
+        "acc": 97.7,
+        "timestamp": 1786389218000,
+        "raw": 42.4,
+        "consistency": 54.6,
+        "uid": "6NaLGIA8jsVUN7DFgoCwhXGyEyR2",
+        "name": "Kazukoroci",
+        "rank": 14
+      }
+    ],
+    "combinedEntryCount": 14
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 42.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 14
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 42.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 42.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 42.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 42.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
