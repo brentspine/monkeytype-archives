@@ -1,0 +1,187 @@
+{
+  "generatedAt": "2026-08-13T04:21:45.025Z",
+  "leaderboardDate": "2026-08-12",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "italian",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 114,
+        "acc": 95.64,
+        "timestamp": 1786538403000,
+        "raw": 114.6,
+        "consistency": 76.69,
+        "uid": "ZiBtSGE0PdSBIaHooQfdmnMzLcw2",
+        "name": "basedtrimone",
+        "rank": 1
+      },
+      {
+        "wpm": 110.78,
+        "acc": 98.59,
+        "timestamp": 1786538126000,
+        "raw": 112.78,
+        "consistency": 81.16,
+        "uid": "cN6agueQImdmVqNdtIUBU7Je3Pk1",
+        "name": "pastasugo89",
+        "rank": 2
+      },
+      {
+        "wpm": 109.18,
+        "acc": 96.24,
+        "timestamp": 1786571326000,
+        "raw": 114.78,
+        "consistency": 75.97,
+        "uid": "fadJU3BlUJNhSeoPAnf0wLvG6KW2",
+        "name": "Giulioxk1",
+        "discordId": "369553386762272779",
+        "discordAvatar": "fc39bdb59d67e1c3df3b2b77fc98af67",
+        "rank": 3
+      },
+      {
+        "wpm": 103,
+        "acc": 97.64,
+        "timestamp": 1786546936000,
+        "raw": 110,
+        "consistency": 77.36,
+        "uid": "RRM30eh399diuYYNHZVwdvguv2J3",
+        "name": "E_vern",
+        "rank": 4
+      },
+      {
+        "wpm": 101.77,
+        "acc": 93.19,
+        "timestamp": 1786540085000,
+        "raw": 115.56,
+        "consistency": 81.24,
+        "uid": "pAlc3Kgek4X2g7nFUnNV0IRXyhv1",
+        "name": "topolelus",
+        "rank": 5
+      },
+      {
+        "wpm": 92.78,
+        "acc": 95.17,
+        "timestamp": 1786554491000,
+        "raw": 93.18,
+        "consistency": 61.71,
+        "uid": "oQMjLVYAeocAgwGF7xgyvjL1rqt2",
+        "name": "Antonio_Bisconti",
+        "discordId": "1133463918568812755",
+        "discordAvatar": "9643bbd2eade5485fa31a041cb5d5b97",
+        "rank": 6
+      },
+      {
+        "wpm": 90.78,
+        "acc": 96.61,
+        "timestamp": 1786538277000,
+        "raw": 90.78,
+        "consistency": 74.42,
+        "uid": "zYWbKw54doQK3VHDy328Ers6ifb2",
+        "name": "Voltecs",
+        "rank": 7
+      },
+      {
+        "wpm": 78.19,
+        "acc": 96.32,
+        "timestamp": 1786546519000,
+        "raw": 78.19,
+        "consistency": 69.77,
+        "uid": "w3AR29rTFlMYiedweOtBF34cpjI3",
+        "name": "Joshuari03",
+        "discordId": "676875756185321495",
+        "rank": 8
+      },
+      {
+        "wpm": 63.2,
+        "acc": 92.29,
+        "timestamp": 1786530750000,
+        "raw": 68.2,
+        "consistency": 68.01,
+        "uid": "0Iq7O4YbUlQ1iyM6FGSoQhUuPOy1",
+        "name": "Angius",
+        "rank": 9
+      },
+      {
+        "wpm": 56.39,
+        "acc": 95.21,
+        "timestamp": 1786545402000,
+        "raw": 66.79,
+        "consistency": 75.38,
+        "uid": "m66T9TbcwoP066gn8We6vQpsIZJ3",
+        "name": "user93",
+        "rank": 10
+      },
+      {
+        "wpm": 30.39,
+        "acc": 85.19,
+        "timestamp": 1786543643000,
+        "raw": 36.19,
+        "consistency": 47.4,
+        "uid": "eqsx9xJW2hgesFKRwdCmvil3rAw1",
+        "name": "loscrittore",
+        "rank": 11
+      }
+    ],
+    "combinedEntryCount": 11
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 11,
+      "reportedMinWpm": 30.39,
+      "reportedPageSize": 200,
+      "entriesFetched": 11
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 11,
+      "reportedMinWpm": 30.39,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 11,
+      "reportedMinWpm": 30.39,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 11,
+      "reportedMinWpm": 30.39,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 11,
+      "reportedMinWpm": 30.39,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
