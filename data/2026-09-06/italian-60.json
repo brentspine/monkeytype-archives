@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-09-07T07:22:17.233Z",
+  "leaderboardDate": "2026-09-06",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "italian",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 125.2,
+        "acc": 98.74,
+        "timestamp": 1788714869000,
+        "raw": 125.2,
+        "consistency": 83.73,
+        "uid": "2o1UuawUGXVwvDErwqOSro0C3m03",
+        "name": "MarkingMoss4268",
+        "rank": 1
+      },
+      {
+        "wpm": 101.78,
+        "acc": 97.16,
+        "timestamp": 1788722896000,
+        "raw": 101.78,
+        "consistency": 70.75,
+        "uid": "8gUjGkqjioeTSLj1V0vah9CsuHs2",
+        "name": "MajorTom95",
+        "rank": 2
+      },
+      {
+        "wpm": 99.2,
+        "acc": 93.17,
+        "timestamp": 1788699726000,
+        "raw": 99.2,
+        "consistency": 71.53,
+        "uid": "j5vGKFjbTIPNTMLUUMYMJZ4sn4a2",
+        "name": "DanieleS",
+        "rank": 3
+      },
+      {
+        "wpm": 90.98,
+        "acc": 96.03,
+        "timestamp": 1788687298000,
+        "raw": 90.98,
+        "consistency": 69.28,
+        "uid": "V83r10BQ0ReeyVe4WLb2SdkQdiP2",
+        "name": "d_11111",
+        "rank": 4
+      },
+      {
+        "wpm": 88.2,
+        "acc": 86.93,
+        "timestamp": 1788734575000,
+        "raw": 111,
+        "consistency": 75.93,
+        "uid": "UppibjEtFCgB3AeDuYFmbRNsxz73",
+        "name": "Shinji.Bot",
+        "rank": 5
+      },
+      {
+        "wpm": 84.19,
+        "acc": 95.29,
+        "timestamp": 1788685124000,
+        "raw": 84.19,
+        "consistency": 71.74,
+        "uid": "QwNIF98M9dU0yXFuA8rzRRyRE7y1",
+        "name": "MartinScorese",
+        "rank": 6
+      },
+      {
+        "wpm": 81.79,
+        "acc": 93.27,
+        "timestamp": 1788737441000,
+        "raw": 82.79,
+        "consistency": 60.31,
+        "uid": "q5C2P6vNBwPtbHR8Wmi7untCA122",
+        "name": "er_numero_che_so",
+        "rank": 7
+      },
+      {
+        "wpm": 70.6,
+        "acc": 97.26,
+        "timestamp": 1788703793000,
+        "raw": 70.6,
+        "consistency": 73.28,
+        "uid": "z8QDOOM4oLSu47hUyhlb1STsMWs2",
+        "name": "Wanito",
+        "rank": 8
+      },
+      {
+        "wpm": 55.2,
+        "acc": 89.2,
+        "timestamp": 1788688303000,
+        "raw": 57,
+        "consistency": 62.49,
+        "uid": "iqHib28fOjZNvGeq8Pm7kblvapl1",
+        "name": "giobb",
+        "rank": 9
+      }
+    ],
+    "combinedEntryCount": 9
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 9,
+      "reportedMinWpm": 55.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 9
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 9,
+      "reportedMinWpm": 55.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 9,
+      "reportedMinWpm": 55.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 9,
+      "reportedMinWpm": 55.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 9,
+      "reportedMinWpm": 55.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
