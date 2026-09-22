@@ -1,0 +1,218 @@
+{
+  "generatedAt": "2026-09-22T07:45:11.277Z",
+  "leaderboardDate": "2026-09-21",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "italian",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 127.2,
+        "acc": 96.52,
+        "timestamp": 1790010555000,
+        "raw": 136,
+        "consistency": 79.03,
+        "uid": "OTjPQ3GXDtdGtShXiSwSm6ZTqyq2",
+        "name": "Dado_102",
+        "rank": 1
+      },
+      {
+        "wpm": 108.4,
+        "acc": 95.45,
+        "timestamp": 1790009597000,
+        "raw": 108.4,
+        "consistency": 72.6,
+        "uid": "SKFuzBXJGSUBGEHPVAQnMCuMiPu1",
+        "name": "karimmo",
+        "discordId": "463308890889519104",
+        "discordAvatar": "27195bb57f4437c058a534b11400a90a",
+        "rank": 2
+      },
+      {
+        "wpm": 103.37,
+        "acc": 94.66,
+        "timestamp": 1789994284000,
+        "raw": 103.37,
+        "consistency": 64.49,
+        "uid": "FPV5TrnCG1d4n9R41KwrKEpRaRB3",
+        "name": "Gabricorei9",
+        "discordId": "702399762812633189",
+        "discordAvatar": "b4bd8f9dce93d57fd26993876bcc7070",
+        "rank": 3
+      },
+      {
+        "wpm": 97.58,
+        "acc": 97.61,
+        "timestamp": 1790000422000,
+        "raw": 97.58,
+        "consistency": 80.15,
+        "uid": "eySyXZU1E9X4MSwjB7RNB7SOIjw2",
+        "name": "Giospell",
+        "rank": 4
+      },
+      {
+        "wpm": 68.59,
+        "acc": 99.71,
+        "timestamp": 1789999937000,
+        "raw": 68.59,
+        "consistency": 76.41,
+        "uid": "KdInX6ILhWd2ymAurJuz3HUDp5O2",
+        "name": "gianetz",
+        "rank": 5
+      },
+      {
+        "wpm": 67.8,
+        "acc": 96.34,
+        "timestamp": 1790021132000,
+        "raw": 67.8,
+        "consistency": 74.13,
+        "uid": "rs0IYllR6LRVt01h87HkA6YeFcn1",
+        "name": "pietempesti",
+        "rank": 6
+      },
+      {
+        "wpm": 66.8,
+        "acc": 96.28,
+        "timestamp": 1789999067000,
+        "raw": 66.8,
+        "consistency": 69.01,
+        "uid": "4HmeizMcjIcKnlu9nXZlXPOHY8g2",
+        "name": "obscureWriter",
+        "rank": 7
+      },
+      {
+        "wpm": 62.59,
+        "acc": 95.83,
+        "timestamp": 1789994988000,
+        "raw": 65.39,
+        "consistency": 74.29,
+        "uid": "nZ2repiLqBWmtabGUWb2uekjkjq2",
+        "name": "RemoteBit",
+        "discordId": "234301981903028225",
+        "discordAvatar": "8e2bd059ad995bc2c286b888ed027937",
+        "rank": 8
+      },
+      {
+        "wpm": 61.6,
+        "acc": 91.84,
+        "timestamp": 1790015551000,
+        "raw": 61.6,
+        "consistency": 65.01,
+        "uid": "C2ZpXYcZF2N8oDNxC7Kdsx5g2W43",
+        "name": "Aurelio754",
+        "rank": 9
+      },
+      {
+        "wpm": 57.39,
+        "acc": 95.05,
+        "timestamp": 1789990107000,
+        "raw": 57.59,
+        "consistency": 73.09,
+        "uid": "3zxqOdJ1qtSuke6sgZadvUia0Hm1",
+        "name": "HobbitForHire",
+        "rank": 10
+      },
+      {
+        "wpm": 57.39,
+        "acc": 91.82,
+        "timestamp": 1790014193000,
+        "raw": 61.99,
+        "consistency": 70.78,
+        "uid": "SkfxoarN05aM7NywH3MpWgNcCTM2",
+        "name": "speedygonzolaes",
+        "rank": 11
+      },
+      {
+        "wpm": 46.19,
+        "acc": 92.69,
+        "timestamp": 1789998754000,
+        "raw": 46.19,
+        "consistency": 53.59,
+        "uid": "gmVszCRprEZ88gZjgt8EDJJFIdU2",
+        "name": "sofia1234",
+        "rank": 12
+      },
+      {
+        "wpm": 44.6,
+        "acc": 90.32,
+        "timestamp": 1790009392000,
+        "raw": 44.8,
+        "consistency": 51.8,
+        "uid": "S0qnO8LXP9QLjp06sT5m3dmCzPn2",
+        "name": "Rocco50",
+        "rank": 13
+      },
+      {
+        "wpm": 37.2,
+        "acc": 95.43,
+        "timestamp": 1790010505000,
+        "raw": 37.2,
+        "consistency": 59.13,
+        "uid": "3Mn7z2PQyuWNsg1qVbwREEgIjZj1",
+        "name": "andrea._.21",
+        "rank": 14
+      }
+    ],
+    "combinedEntryCount": 14
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 37.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 14
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 37.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 37.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 37.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 14,
+      "reportedMinWpm": 37.2,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
