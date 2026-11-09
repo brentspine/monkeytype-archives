@@ -1,0 +1,233 @@
+{
+  "generatedAt": "2026-11-09T09:53:21.227Z",
+  "leaderboardDate": "2026-11-08",
+  "source": {
+    "baseUrl": "https://api.monkeytype.com/leaderboards/daily",
+    "sourceUrlTemplate": "https://api.monkeytype.com/leaderboards/daily?pageSize={pageSize}&page={page}&mode={mode}&mode2={jsonStringMode2}&language={language}&daysBefore={daysBefore}",
+    "daysBefore": 1,
+    "pageSize": 200,
+    "mode": "time",
+    "mode2": "60",
+    "language": "italian",
+    "pages": [
+      0,
+      1,
+      2,
+      3,
+      4
+    ]
+  },
+  "data": {
+    "entries": [
+      {
+        "wpm": 141.78,
+        "acc": 98.77,
+        "timestamp": 1794128127000,
+        "raw": 145.58,
+        "consistency": 80.96,
+        "uid": "eC5Zhgh6ynhD4xOfHdEwTban05i1",
+        "name": "MarcoTogni.it",
+        "rank": 1
+      },
+      {
+        "wpm": 119.2,
+        "acc": 98.52,
+        "timestamp": 1794158161000,
+        "raw": 119.8,
+        "consistency": 79.42,
+        "uid": "FioU23pYPgRtwD4FQRFPxYSfDuW2",
+        "name": "fonchio",
+        "rank": 2
+      },
+      {
+        "wpm": 104,
+        "acc": 95.81,
+        "timestamp": 1794171919000,
+        "raw": 104,
+        "consistency": 70.28,
+        "uid": "SKFuzBXJGSUBGEHPVAQnMCuMiPu1",
+        "name": "karimmo",
+        "discordId": "463308890889519104",
+        "discordAvatar": "27195bb57f4437c058a534b11400a90a",
+        "rank": 3
+      },
+      {
+        "wpm": 103.58,
+        "acc": 96.63,
+        "timestamp": 1794165535000,
+        "raw": 110.38,
+        "consistency": 73.25,
+        "uid": "xBi5Vc6iJ0dmJ48KHvFv26Y0yEU2",
+        "name": "ohSavee",
+        "discordId": "562318001383145484",
+        "rank": 4
+      },
+      {
+        "wpm": 101.18,
+        "acc": 96.1,
+        "timestamp": 1794158423000,
+        "raw": 103.18,
+        "consistency": 74.65,
+        "uid": "fadJU3BlUJNhSeoPAnf0wLvG6KW2",
+        "name": "Giulioxk1",
+        "discordId": "369553386762272779",
+        "discordAvatar": "fc39bdb59d67e1c3df3b2b77fc98af67",
+        "rank": 5
+      },
+      {
+        "wpm": 93.38,
+        "acc": 90.64,
+        "timestamp": 1794174547000,
+        "raw": 102.58,
+        "consistency": 68.89,
+        "uid": "UIKg6WMTCTWLGSAqb20iJTT6u9G3",
+        "name": "EMblEM_",
+        "discordId": "565586323168034826",
+        "discordAvatar": "ca0881cf0ae5b46f9e08f10d1ba94b97",
+        "rank": 6
+      },
+      {
+        "wpm": 91.2,
+        "acc": 94.44,
+        "timestamp": 1794140288000,
+        "raw": 91.2,
+        "consistency": 75.86,
+        "uid": "gzQhjNGAQIdG3nmLSrp3a9G2iJt2",
+        "name": "puffslqtt",
+        "rank": 7
+      },
+      {
+        "wpm": 86.77,
+        "acc": 95.97,
+        "timestamp": 1794128421000,
+        "raw": 91.17,
+        "consistency": 76.53,
+        "uid": "IngoEuFHjEaZgDuEGARuYq3tEJ83",
+        "name": "Laios",
+        "discordId": "322103109243633667",
+        "discordAvatar": "22d9f429c708fc9a9d9eca17abd9f97a",
+        "rank": 8
+      },
+      {
+        "wpm": 85.4,
+        "acc": 96.46,
+        "timestamp": 1794157807000,
+        "raw": 87.2,
+        "consistency": 69.42,
+        "uid": "I6Evv4onAHNdkCt2mYHxIrCXD543",
+        "name": "Matsss06",
+        "rank": 9
+      },
+      {
+        "wpm": 83.2,
+        "acc": 91.98,
+        "timestamp": 1794157624000,
+        "raw": 87,
+        "consistency": 65.21,
+        "uid": "Xg4ojjlQSkd63ASl3zbcoe2nKL03",
+        "name": "IlBlaze7",
+        "rank": 10
+      },
+      {
+        "wpm": 71.8,
+        "acc": 97.33,
+        "timestamp": 1794144744000,
+        "raw": 73.4,
+        "consistency": 78.6,
+        "uid": "nZ2repiLqBWmtabGUWb2uekjkjq2",
+        "name": "RemoteBit",
+        "discordId": "234301981903028225",
+        "discordAvatar": "8e2bd059ad995bc2c286b888ed027937",
+        "rank": 11
+      },
+      {
+        "wpm": 71.6,
+        "acc": 94.76,
+        "timestamp": 1794179661000,
+        "raw": 74.4,
+        "consistency": 70.9,
+        "uid": "0x09uScbIMXtPyHKKqowO7qDdep1",
+        "name": "dpinto",
+        "rank": 12
+      },
+      {
+        "wpm": 60.8,
+        "acc": 96.2,
+        "timestamp": 1794180885000,
+        "raw": 60.8,
+        "consistency": 76.02,
+        "uid": "emk5CmS9wVdEaPsEMYCttfmD2Sx2",
+        "name": "SirTurtle",
+        "rank": 13
+      },
+      {
+        "wpm": 57.39,
+        "acc": 89.61,
+        "timestamp": 1794139813000,
+        "raw": 67.99,
+        "consistency": 67.45,
+        "uid": "B5bqU7UVN2gYRx908kBsml9DgE72",
+        "name": "Ginozzz",
+        "rank": 14
+      },
+      {
+        "wpm": 38.99,
+        "acc": 90.48,
+        "timestamp": 1794167549000,
+        "raw": 39.99,
+        "consistency": 55.61,
+        "uid": "S0qnO8LXP9QLjp06sT5m3dmCzPn2",
+        "name": "Rocco50",
+        "rank": 15
+      }
+    ],
+    "combinedEntryCount": 15
+  },
+  "pageSummaries": [
+    {
+      "page": 0,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=0&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 15,
+      "reportedMinWpm": 38.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 15
+    },
+    {
+      "page": 1,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=1&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 15,
+      "reportedMinWpm": 38.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 2,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=2&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 15,
+      "reportedMinWpm": 38.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 3,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=3&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 15,
+      "reportedMinWpm": 38.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    },
+    {
+      "page": 4,
+      "url": "https://api.monkeytype.com/leaderboards/daily?pageSize=200&page=4&mode=time&language=italian&daysBefore=1&mode2=%2260%22",
+      "message": "Daily leaderboard retrieved",
+      "reportedCount": 15,
+      "reportedMinWpm": 38.99,
+      "reportedPageSize": 200,
+      "entriesFetched": 0
+    }
+  ]
+}
